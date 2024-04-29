@@ -19,6 +19,7 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 - Javascript
 - DOM
 - ES6
